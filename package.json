@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-unicorn/webpack-day-jake-elizondo/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-unicorn/webpack-day-jake-elizondo#readme"
+  "homepage": "https://github.com/thinkful-ei-unicorn/webpack-day-jake-elizondo#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
